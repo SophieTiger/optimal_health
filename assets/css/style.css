@@ -111,3 +111,11 @@ footer {
         display: none;
     }
 }
+
+/* Media querie: laptops and larger (992px and up) */
+@media screen and (min-width: 992px) {
+    /* Header */
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a; 
+    }
+}
