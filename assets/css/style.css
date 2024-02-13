@@ -16,12 +16,16 @@ body {
 
 /* Header */
 header {
-    background-color: aqua;
+    background-color: lightgray;
+}
+
+#logo {
+    max-width: 20%;
 }
 
 /* Main Content */
 main {
-    background-color: blue;
+
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
