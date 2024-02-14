@@ -85,8 +85,23 @@ main {
 
 /* Footer */
 footer {
-    background-color: lightgray;
+    background-color: lightgray;       
 }
+
+#social-media {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 25px 0;
+}
+
+#social-media i {
+    font-size: 150%;
+    color: #3a3a3a;
+    padding: 5px;
+}
+
 
 /* Media querie: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
