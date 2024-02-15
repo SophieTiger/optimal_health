@@ -116,12 +116,33 @@ main {
     bottom: 50px;
     right: 30px;
     width: 80%;
-    text-align: center;
-
-
-
+    text-align: right;
 }
 
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#why {
+    line-height: 20px;
+    margin-bottom: 20px; 
+}
+
+#how {
+    line-height: 20px;
+    margin-bottom: 20px;    
+}
+
+#benefits p
+#benefits p ul {
+    padding: 0 30px;
+}
+
+hr {
+    margin: 5px 0;
+    border-top: #3a3a3a 1px solid;
+}
 /* Footer */
 footer {
     background-color: lightgray;
@@ -207,7 +228,7 @@ footer {
     main {
 
         /* Make main element take up any surplus space to push footer down */
-        margin-top: 153px;
+        margin-top: 152px;
     }
 
 }
