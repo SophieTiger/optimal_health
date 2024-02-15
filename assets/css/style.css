@@ -11,14 +11,14 @@ body {
     display: flex;
     flex-direction: column;
     /*Generic project styles */
-    color: #3a3a3a;
+    color: rgb(87, 87, 88);
     font-family: 'Montserrat', sans-serif;
 }
 
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    color: rgb(87, 87, 88);
 }
 
 /* Header */
@@ -72,7 +72,7 @@ nav {
 }
 
 header label {
-    color: #3a3a3a;
+    color: rgb(87, 87, 88);
 }
 
 /* Nav toggle */
