@@ -33,8 +33,8 @@ header a {
 }
 
 #logo {
-    max-width: 20%;    
-    margin-top: 15px;
+    max-width: 50%;    
+    margin-top: 8px;
 }
 
 #menu {
@@ -126,6 +126,11 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    #logo {
+        max-width: 40%;
+        margin-top: 15px;
+    }
 }
 
 /* Media querie: laptops and larger (992px and up) */
@@ -133,5 +138,10 @@ footer {
     /* Header */
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a; 
+    }
+
+    #logo {
+        max-width: 37%;
+        margin-top: 20px;
     }
 }
