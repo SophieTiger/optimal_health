@@ -76,12 +76,15 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
+
+
 /* Main Content */
 main {
 
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 37px;
+    margin-top: 61px;
 }
 
 /* Footer */
@@ -131,6 +134,13 @@ footer {
         max-width: 40%;
         margin-top: 15px;
     }
+
+    /* Main Content */
+main {
+
+    /* Make main element take up any surplus space to push footer down */
+       margin-top: 91px;
+}
 }
 
 /* Media querie: laptops and larger (992px and up) */
@@ -144,4 +154,23 @@ footer {
         max-width: 37%;
         margin-top: 20px;
     }
+
+    /* Main Content */
+main {
+
+    /* Make main element take up any surplus space to push footer down */
+       margin-top: 121px;
+}
+}
+
+/* Media query: Large screens (1200px and up) */
+@media screen and (min-width:1200px) {
+
+    /* Main Content */
+main {
+
+    /* Make main element take up any surplus space to push footer down */
+       margin-top: 153px;
+}
+
 }
