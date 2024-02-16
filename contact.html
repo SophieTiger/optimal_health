@@ -49,18 +49,18 @@
             <form action="https://formdump.codeinstitute.net" id="contact-form" method="post">
                 <h2><i class="fa-solid fa-phone-volume"></i> Let's get in touch!</h2>
                 <label for="name">Name</label>
-                <input type="text" id="name" class="text-input" required><br>
+                <input type="text" name="name" id="name" class="text-input" required><br>
                 <label for="email">Email Address</label>
-                <input type="email" id="email" class="text-input" required><br>
+                <input type="email" name="email_address" id="email" class="text-input" required><br>
                 <label for="phone">Phone Number</label>
-                <input type="tel" id="phone" class="text-input" required><br>
+                <input type="tel" name="phone_number" id="phone" class="text-input" required><br>
                 <div class="radio-button">
                     <label for="pt">Personal Training</label>
-                    <input type="radio" id="pt"><br>
+                    <input type="radio" name="preference" id="pt" value="pt" required><br>
                     <label for="nutrition">Nutrition Coaching</label>
-                    <input type="radio" id="nutrition"><br>
+                    <input type="radio" name="preference" id="nutrition" value="nutrition" required><br>
                     <label for="both">Both</label>
-                    <input type="radio" id="both" checked>
+                    <input type="radio" name="preference" id="both" value="both" required checked>
                 </div>
                 <button type="submit" class="call-me-button">Call me!</button>
             </form>
