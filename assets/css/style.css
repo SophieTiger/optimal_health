@@ -198,12 +198,6 @@ hr {
     border-radius: 2px;
 }
 
-/*.radio-button {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-}*/
-
 .call-me-button {
     border-radius: 2px;
     background-color: #87ba68;
@@ -287,6 +281,18 @@ footer {
     #how {
         text-align: start;
         align-self: flex-end;
+    }
+
+    /* Contact page */
+    #contact {
+        position: relative;
+    }
+
+    #contact-form {
+        position: absolute;
+        max-width: 400px;
+        right: 10%;
+        top: 200px;
     }
 
 }
