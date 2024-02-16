@@ -131,7 +131,7 @@ main {
 
 #how {
     line-height: 20px;
-    margin-bottom: 20px;    
+    margin-bottom: 20px;   
 }
 
 #benefits p
@@ -159,6 +159,12 @@ hr {
     align-items: center;
     justify-content: center;
 }
+
+#last-words {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
 /* Footer */
 footer {
     background-color: lightgray;
@@ -214,6 +220,26 @@ footer {
         /* Make main element take up any surplus space to push footer down */
         margin-top: 87px;
     }
+
+    /* Reasons section */
+    #benefits {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #why {
+        width: 75%;
+    }
+    #how {
+        width: 75%;
+    }
+
+    #how {
+        text-align: start;
+        align-self: flex-end;
+    }
+
 }
 
 /* Media querie: laptops and larger (992px and up) */
@@ -232,9 +258,10 @@ footer {
     /* Main Content */
     main {
 
-        /* Make main element take up any surplus space to push footer down */
+    /* Make main element take up any surplus space to push footer down */
         margin-top: 117px;
     }
+
 }
 
 /* Media query: Large screens (1200px and up) */
@@ -243,8 +270,30 @@ footer {
     /* Main Content */
     main {
 
-        /* Make main element take up any surplus space to push footer down */
+    /* Make main element take up any surplus space to push footer down */
         margin-top: 152px;
+    }
+    /* Reasons section */
+    #benefits {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #benefits > div {
+        flex: 1;    
+    }
+
+    #benefits-image {
+        order: 0;
+    }
+
+    #how {
+        order: 1;
+        align-self: center;
+    }
+
+    #why {
+        align-self: center;
     }
 
 }
