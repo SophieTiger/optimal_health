@@ -262,10 +262,21 @@ footer {
         margin-top: 117px;
     }
 
+    /* Reasons section */
+    #last-words {
+        font-size: 130%;
+    }
 }
 
 /* Media query: Large screens (1200px and up) */
 @media screen and (min-width:1200px) {
+
+    /* Hero section */
+    #cover-text {
+        bottom: 60px;
+        font-size: 150%;
+        color: #3a3a3a;
+    }
 
     /* Main Content */
     main {
@@ -296,4 +307,7 @@ footer {
         align-self: center;
     }
 
+    #last-words {
+        font-size: 150%;
+    }
 }
