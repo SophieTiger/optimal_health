@@ -99,7 +99,7 @@ main {
 
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 51px;
+    margin-top: 50.72px;
 }
 
 /* Hero section */
@@ -282,7 +282,7 @@ footer {
     main {
 
     /* Make main element take up any surplus space to push footer down */
-        margin-top: 152px;
+        margin-top: 152.84px;
     }
     /* Reasons section */
     #benefits {
