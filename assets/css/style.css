@@ -293,7 +293,16 @@ footer {
         position: absolute;
         max-width: 400px;
         right: 10%;
-        top: 200px;
+        top: 150px;
+    }
+
+    .text-input:hover {
+        border-color: #87ba68;
+    }
+
+    .call-me-button:hover {
+        background-color: whitesmoke;
+        color: #87ba68;
     }
 
 }
