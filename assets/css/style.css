@@ -413,7 +413,7 @@ footer {
     #pt-info,
     #online-info {
         text-align: end;
-        align-self: flex-end;
+        align-items: center;
     }
 
     #nutrition-image {
@@ -431,10 +431,7 @@ footer {
         
             }
     
-    #nutrition-image {
-        height: 700px;
-            }
-    
+       
     #app-image {
         height: 380px;
     }
