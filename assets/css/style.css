@@ -179,6 +179,24 @@ hr {
     width: 100%;
 }
 
+#nutrition-image {
+    background-image: url(../images/pexels-ella-olsson-1640775.jpg);
+    background-size: cover;
+    flex-grow: 1;
+    background-position: 50%;
+    height: 170px;
+    width: 100%;
+}
+
+#app-image {
+    background-image: url(../images/4-appbilder-960x493.jpg);
+    background-size: cover;
+    flex-grow: 1;
+    background-position: 50%;
+    height: 170px;
+    width: 100%;
+}
+
 .services-info {
     line-height: 20px;
     margin-bottom: 20px;
