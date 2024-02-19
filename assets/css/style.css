@@ -418,12 +418,25 @@ footer {
 
     #nutrition-image {
         order: 1;
+        height: 1000px;
     }
 
     #nutrition {
         border-top: 1px solid #3a3a3a;
         border-bottom: 1px solid #3a3a3a;
         padding: 20px 0;
+    }
+    #pt-image {
+        height: 600px;
+        
+            }
+    
+    #nutrition-image {
+        height: 700px;
+            }
+    
+    #app-image {
+        height: 380px;
     }
 }
 
