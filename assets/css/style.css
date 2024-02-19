@@ -339,7 +339,6 @@ footer {
             }
     
     #app-image {
-        /* background-position: 50%; */
         height: 380px;
     }
 
@@ -382,13 +381,49 @@ footer {
     /* Main Content */
     main {
 
-        /* Make main element take up any surplus space to push footer down */
-        margin-top: 117px;
+        /* Make main element take up any surplus space */
+        margin-top: 117.28px;
     }
 
     /* Reasons section */
     #last-words {
         font-size: 130%;
+    }
+
+    /* Services page */
+    #pt {
+        margin-top: 20px;
+    }
+    
+    #pt,
+    #nutrition,
+    #online {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        align-items: center;
+    }
+
+    #pt  div,
+    #nutrition  div,
+    #online  div {
+        width: 50%;
+    } 
+
+    #pt-info,
+    #online-info {
+        text-align: end;
+        align-self: flex-end;
+    }
+
+    #nutrition-image {
+        order: 1;
+    }
+
+    #nutrition {
+        border-top: 1px solid #3a3a3a;
+        border-bottom: 1px solid #3a3a3a;
+        padding: 20px 0;
     }
 }
 
