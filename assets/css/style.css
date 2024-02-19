@@ -19,7 +19,8 @@ h1 {
     font-family: 'Roboto', sans-serif;
 }
 
-h2, h3 {
+h2,
+h3 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     color: rgb(87, 87, 88);
@@ -129,16 +130,15 @@ main {
 
 #why {
     line-height: 20px;
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
 }
 
 #how {
     line-height: 20px;
-    margin-bottom: 20px;   
+    margin-bottom: 20px;
 }
 
-#benefits p
-#benefits p ul {
+#benefits p #benefits p ul {
     padding: 0 30px;
 }
 
@@ -168,14 +168,38 @@ hr {
     margin-bottom: 30px;
 }
 
+/* Services page */
+
+#pt-image {
+    background-image: url(../images/pexels-pixabay-416717.jpg);
+    background-size: cover;
+    flex-grow: 1;
+    background-position: 75%;
+    height: 170px;
+    width: 100%;
+}
+
+.services-info {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.services-info h4 {
+    padding: 0 30px;
+}
+
+.services-info p {
+    padding: 0 30px;
+
+}
+
 /* contact page */
 #contact {
     background-image: url(../images/pexels-scott-webb-28080.jpg);
     background-size: cover;
     background-position: 25%;
     padding: 20px 10% 0 10%;
-    flex-grow: 1;    
-    padding: 20px 10% 0 10%;
+    flex-grow: 1;
 }
 
 #contact h2 {
@@ -184,9 +208,9 @@ hr {
 }
 
 #contact-form {
-    padding: 30px; 
+    padding: 30px;
     color: whitesmoke;
-    background-color: rgba(60, 60, 60, 0.6); 
+    background-color: rgba(60, 60, 60, 0.6);
 }
 
 .text-input {
@@ -275,6 +299,7 @@ footer {
     #why {
         width: 75%;
     }
+
     #how {
         width: 75%;
     }
@@ -323,7 +348,7 @@ footer {
     /* Main Content */
     main {
 
-    /* Make main element take up any surplus space to push footer down */
+        /* Make main element take up any surplus space to push footer down */
         margin-top: 117px;
     }
 
@@ -346,17 +371,18 @@ footer {
     /* Main Content */
     main {
 
-    /* Make main element take up any surplus space to push footer down */
+        /* Make main element take up any surplus space to push footer down */
         margin-top: 152.84px;
     }
+
     /* Reasons section */
     #benefits {
         display: flex;
         flex-direction: row;
     }
 
-    #benefits > div {
-        flex: 1;    
+    #benefits>div {
+        flex: 1;
     }
 
     #benefits-image {
