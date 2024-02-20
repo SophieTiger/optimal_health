@@ -172,7 +172,7 @@ hr {
 /* Services page */
 
 #pt-image {
-    background-image: url(../images/pexels-pixabay-416717.jpg);
+    background-image: url(../images/kettlebell_row.jpg);
     background-size: cover;
     flex-grow: 1;
     background-position: 75%;
@@ -181,7 +181,7 @@ hr {
 }
 
 #nutrition-image {
-    background-image: url(../images/pexels-ella-olsson-1640775.jpg);
+    background-image: url(../images/nutrition.jpeg);
     background-size: cover;
     flex-grow: 1;
     background-position: 50%;
@@ -425,13 +425,13 @@ footer {
 
     #nutrition-image {
         order: 1;
-        height: 1000px;
+        height: 900px;
     }
 
     #nutrition {
         border-top: 1px solid #3a3a3a;
         border-bottom: 1px solid #3a3a3a;
-        padding: 20px 0;
+        padding: 20px 20px;
     }
     #pt-image {
         height: 600px;        
