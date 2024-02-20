@@ -9,8 +9,11 @@ There is also a contact form to get the first point of contact.
 * Navigation
     -   Featured at the top of the webpage, the navigation links are situated to the right. On larger screens they show the text; Home, Services and Contact. On smaller screens, such as mobiles, the navigation links are situated in the burger-icon that expands when you click it.
     -   At the top left in the header section, there is a logo, that will take the user to the home page when clicked.
+    
 
+![Screenshot of the header containing company logo and navigation bar](/assets/images/header_image.png)
 * The Header
+    -   The header contains the Company logo and sets the main color theme; green, gray, black and white.
 
 * The Home page
 
