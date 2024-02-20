@@ -329,6 +329,10 @@ footer {
     }
 
     /* Services page */
+    .services-info {
+        margin-bottom: 50px;
+    }
+    
     #pt-image {
         background-position: 75%;
         height: 300px;
@@ -392,6 +396,10 @@ footer {
     }
 
     /* Services page */
+    .services-info {
+        margin-top: 50px;
+    }
+    
     #pt {
         margin-top: 20px;
     }
