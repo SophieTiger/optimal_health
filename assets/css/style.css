@@ -353,10 +353,11 @@ footer {
     }
 
     #contact-form {
-        position: absolute;
+        /* position: absolute; */
+        margin: 1rem auto;
         max-width: 400px;
-        right: 10%;
-        top: 150px;
+        /* right: 10%; */
+        /* top: 150px; */
     }
 
     .text-input:hover {
