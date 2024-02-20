@@ -11,10 +11,9 @@ There is also a contact form to get the first point of contact.
     -   At the top left in the header section, there is a logo, that will take the user to the home page when clicked.
 
 
-![Screenshot of the header containing company logo and navigation bar](/assets/images/header_image.png)
 * The Header
     -   The header contains the Company logo and sets the main color theme; green, gray, black and white.
-
+![Screenshot of the header containing company logo and navigation bar](/assets/images/header_image.png)
 * The Home page
 
 * The Services page
@@ -27,13 +26,16 @@ There is also a contact form to get the first point of contact.
     -   Contact form that allows the user to fill in the necessary contact details to easy get in touch. They are also asked to choose the product of interest; Personal Training, Nutrition or Both.
     -   Submit button says 3..2..1..Go! Which is a common saying in Functional Fitness and CrossFit when starting a workout.
 
+![Screenshot of the contact form and background picture of woman training with ropes](/assets/images/contact_form.png)    
+
 ## Testing
 List
 
 ### Unfixed bugs?
 
 ## Deployment
-List
+-   The site was deployed to Github pages
+-   The live link: https://sophietiger.github.io/optimal_health/
 
 ## Credits
 ### Content
