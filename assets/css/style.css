@@ -392,6 +392,28 @@ footer {
     }
 
     /* Reasons section */
+    #benefits {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #benefits>div {
+        flex: 1;
+    }
+
+    #benefits-image {
+        order: 0;
+    }
+
+    #how {
+        order: 1;
+        align-self: center;
+    }
+
+    #why {
+        align-self: center;
+    }
+    
     #last-words {
         font-size: 130%;
     }
@@ -460,28 +482,7 @@ footer {
     }
 
     /* Reasons section */
-    #benefits {
-        display: flex;
-        flex-direction: row;
-    }
-
-    #benefits>div {
-        flex: 1;
-    }
-
-    #benefits-image {
-        order: 0;
-    }
-
-    #how {
-        order: 1;
-        align-self: center;
-    }
-
-    #why {
-        align-self: center;
-    }
-
+    
     #last-words {
         font-size: 150%;
     }
