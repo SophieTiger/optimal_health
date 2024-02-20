@@ -111,7 +111,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url(../images/pexels-jill-wellington-40815.jpg) no-repeat center center/cover;
+    background: url(../images/heroImg.jpg) no-repeat center center/cover;
     position: relative;
 }
 
