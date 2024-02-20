@@ -126,7 +126,7 @@ main {
 
 #reasons {
     width: 90%;
-    margin: 20px auto;
+    margin: 50px auto;
 }
 
 #why {
@@ -413,7 +413,7 @@ footer {
     #why {
         align-self: center;
     }
-    
+
     #last-words {
         font-size: 130%;
     }
