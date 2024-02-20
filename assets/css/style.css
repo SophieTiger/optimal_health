@@ -418,7 +418,7 @@ footer {
 
     #pt-info,
     #online-info {
-        text-align: end;
+        text-align: left;
         align-items: center;
     }
 
@@ -455,7 +455,7 @@ footer {
     main {
 
         /* Push main contant down to accomodate larger header */
-        margin-top: 152.84px;
+        margin-top: 138px;
     }
 
     /* Reasons section */
