@@ -49,7 +49,12 @@ The site is responsive for all screen sizes.
 ![Screenshot of the contact form and background picture of woman training with ropes](/assets/images/contact_form.png)    
 
 ## Testing
-List
+-   Accessibility
+    -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible
+    
+![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_home.png)
+![Screenshot of Lighthouse result from Services page](/assets/images/lighthouse_services.png)
+![Screenshot of Lighthouse result from Contact page](/assets/images/lighthouse_contact.png) 
 
 ### Unfixed bugs?
 
