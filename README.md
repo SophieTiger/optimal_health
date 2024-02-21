@@ -20,6 +20,7 @@ The site is responsive for all screen sizes.
 ![Screenshot of the header containing company logo and navigation bar](/assets/images/header_image.png)
 
 * The Home page
+    -   This is the landing page and it aspires to bring motivation to the user to take the step towards a healthier lifestyle.
 
 * The Footer
 
