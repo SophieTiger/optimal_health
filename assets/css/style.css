@@ -241,6 +241,7 @@ hr {
     margin: 5px 0 20px 0;
     border: 1px solid whitesmoke;
     border-radius: 2px;
+    color: whitesmoke;
 }
 
 .call-me-button {
