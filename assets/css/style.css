@@ -110,6 +110,10 @@ main {
     position: relative;
 }
 
+#hero > h2 {
+    display: none;
+}
+
 /* Reasons section */
 
 #reasons {
