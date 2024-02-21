@@ -21,14 +21,18 @@ The site is responsive for all screen sizes.
 
 * The Home page
     -   This is the landing page and with it's colourful and inviting picture of people jumping in the sunset it aspires to bring motivation to the user to take the step towards a healthier lifestyle.
+![Screenshot of the landing page image with people on beach in sunset with the text "Become the best version of you!"](/assets/images/heroImg.jpg)
     -   The section below conatins information on WHY the user should take this step and embark on a journey to unlock their full potential.
     -   The section HOW explains how easy it is to get in contact.
     -   There is a picture of me, the Coach, to give a more personalized feeling.
     -   The section the COACH tells more about the certifications and qualifications that the coach possess.
+![Screenshot of the reasons sections with info on why and how to take the step, and a photo of the coach and information about the coach](/assets/images/why_how_coach.png)
 
 
 * The Footer
-
+    -   The footer section includes relevant links to Facebook, Instagram and Youtube.
+    -   The links will open in a new tab and they aspire to give the user more motivation to take the lifechanging step.
+![Screenshot of the Footer with social media links](/assets/images/footer.png)
 * The Services page
     -   The services page gives the user information on what services are offered
     -   Personal Training. A picture with training equipment, kettlebells, and an informational text on the benefits with personal training and functional fitness.
