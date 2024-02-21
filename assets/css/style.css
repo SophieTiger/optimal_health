@@ -126,7 +126,7 @@ main {
 
 #reasons {
     width: 90%;
-    margin: 50px auto;
+    margin: 50px auto 0 auto;
 }
 
 #why {
@@ -164,10 +164,11 @@ hr {
     justify-content: center;
 }
 
-#last-words {
-    text-align: center;
-    margin-bottom: 30px;
-}
+#coach {
+    line-height: 20px;
+    width: 90%;
+    margin: 0 auto 50px auto;
+    }
 
 /* Services page */
 
@@ -414,11 +415,7 @@ footer {
         align-self: center;
     }
 
-    #last-words {
-        font-size: 130%;
-    }
-
-    /* Services page */
+       /* Services page */
     .services-info {
         margin-top: 50px;
     }
@@ -481,9 +478,4 @@ footer {
         margin-top: 138px;
     }
 
-    /* Reasons section */
     
-    #last-words {
-        font-size: 150%;
-    }
-}
