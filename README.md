@@ -36,8 +36,11 @@ The site is responsive for all screen sizes.
 * The Services page
     -   The services page gives the user information on what services are offered
     -   Personal Training. A picture with training equipment, kettlebells, and an informational text on the benefits with personal training and functional fitness.
+![Screenshot of picture with kettlebells and information about personal training](/assets/images/pt_div.png)
     -   Nutrition. A picture with food in boxes to give the user a feeling of what will come, since food prepation is a big part of the nutrition coaching. Informational text on the benefits of planning meals and getting knowledge about nutrition in order to make progress with training and getting a healthier lifestyle.
+![Screenshot of picture with foodboxes and information about nutrition](/assets/images/nutrition_div.png)
     -   Online Coaching. A picture with the App that will be provided to the users once signing up. Informational text on what to excpect from online coaching and how it is working.
+![Screenshot of picture with online coaching app and information about online coaching](/assets/images/online_div.png)
 * The Contact page
     -   Background picture of a woman training with ropes that flow towards the user. Also giving the user a feeling of connection through the ropes.
     -   Contact form that allows the user to fill in the necessary contact details to easy get in touch. They are also asked to choose the product of interest; Personal Training, Nutrition or Both.
