@@ -20,7 +20,12 @@ The site is responsive for all screen sizes.
 ![Screenshot of the header containing company logo and navigation bar](/assets/images/header_image.png)
 
 * The Home page
-    -   This is the landing page and it aspires to bring motivation to the user to take the step towards a healthier lifestyle.
+    -   This is the landing page and with it's colourful and inviting picture of people jumping in the sunset it aspires to bring motivation to the user to take the step towards a healthier lifestyle.
+    -   The section below conatins information on WHY the user should take this step and embark on a journey to unlock their full potential.
+    -   The section HOW explains how easy it is to get in contact.
+    -   There is a picture of me, the Coach, to give a more personalized feeling.
+    -   The section the COACH tells more about the certifications and qualifications that the coach possess.
+
 
 * The Footer
 
