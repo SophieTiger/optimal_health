@@ -98,6 +98,7 @@ The social media links to Facebook and Instagram are the real ones this company 
 ### Media
 -   The images in the hero section, on the servives page and the contact page was taken from [Pexels](https://www.pexels.com/)
 -   The profile picture on the Home page is from my private gallery.
+-   The online coaching image on the services page, with pictures of an app, was with permission taken from [Nutrition Data](https://nutritiondata.se/)
 
 
 
