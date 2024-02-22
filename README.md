@@ -46,7 +46,7 @@ The site is responsive for all screen sizes.
     -   Contact form that allows the user to fill in the necessary contact details to easy get in touch. They are also asked to choose the product of interest; Personal Training, Nutrition or Both.
     -   Submit button says 3..2..1..Go! Which is a common saying in Functional Fitness and CrossFit when starting a workout.
 
-![Screenshot of the contact form and background picture of woman training with ropes](/assets/images/contact_form.png)    
+        ![Screenshot of the contact form and background picture of woman training with ropes](/assets/images/contact_form.png)    
 
 ### Features left to implement
 -   I would like to add a webshop to the page to make it easy and fast for the users to enroll on my services. The webshop would contain of different packages to choose from when it comes to Nutrition and Personal Training.
