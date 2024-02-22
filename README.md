@@ -55,9 +55,9 @@ The site is responsive for all screen sizes.
 -   Accessibility
     -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible
     
-![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_index.png)
-![Screenshot of Lighthouse result from Services page](/assets/images/lighthouse_services.png)
-![Screenshot of Lighthouse result from Contact page](/assets/images/lighthouse_contact.png) 
+    ![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_index.png)
+    ![Screenshot of Lighthouse result from Services page](/assets/images/lighthouse_services.png)
+    ![Screenshot of Lighthouse result from Contact page](/assets/images/lighthouse_contact.png) 
 
 -   I tested and confirmed that the page works in different browsers; Chrome, Safari and Firefox.
 -   I tested and confirmed that all internal links are working and redirecting the user between the pages.
@@ -85,6 +85,7 @@ I reached out to Tutor support that helped me and advised to use the link to add
 
 ## Wireframes
 -   The site was developed with the Mobile-first method. The wireframes were therefore drawn with that thought in mind.
+
 ![Home page wireframe](/assets/images/wireframe_index.png) ![Services page wireframe](/assets/images/wireframe_services.png) ![Contact page wireframe](/assets/images/wireframe_contact.png)
 
 ## Credits
