@@ -83,6 +83,10 @@ I reached out to Tutor support that helped me and advised to use the link to add
     -   Once the Master branch was selected, the page provided the link to the website
 -   The live link: [Optimal Health](https://sophietiger.github.io/optimal_health/)
 
+## Wireframes
+-   The site was developed with the Mobile-first method. The wireframes were therefore drawn with that thought in mind.
+![Home page wireframe](/assets/images/wireframe_index.png) ![Services page wireframe](/assets/images/wireframe_services.png) ![Contact page wireframe](/assets/images/wireframe_contact.png)
+
 ## Credits
 -   A special thanks to my Mentor for the support and answering all my Questions!
 ### Content
