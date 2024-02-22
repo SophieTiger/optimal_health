@@ -48,23 +48,27 @@ The site is responsive for all screen sizes.
 
 ![Screenshot of the contact form and background picture of woman training with ropes](/assets/images/contact_form.png)    
 
+### Features left to implement
+-   I would like to add a webshop to the page to make it easy and fast for the users to enroll on my services. The webshop would contain of different packages to choose from when it comes to Nutrition and Personal Training.
+
 ## Testing
 -   Accessibility
     -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible
     
-![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_home.png)
+![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_index.png)
 ![Screenshot of Lighthouse result from Services page](/assets/images/lighthouse_services.png)
 ![Screenshot of Lighthouse result from Contact page](/assets/images/lighthouse_contact.png) 
 
 -   I tested and confirmed that the page works in different browsers; Chrome, Safari and Firefox.
--   I tested and confirmed that all links are working, both internal between pages and external to social media sites.
--   I tested and confirmed that the contact form works and , all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
+-   I tested and confirmed that all internal links are working and redirecting the user between the pages.
+-   I tested that all external links, to social media sites, are woking and opening in a separate tab.
+-   I tested and confirmed that the contact form works, all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
 ![Screenshot of the Code institute page that is displayed when submitting the form](/assets/images/code_institute_form.png)
 
 -   HTML
-    -   No errors found when running the code through the W3C HTML Validator
+    -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
 -   CSS
-    -   No errors found when running the code through the W3C CSS Validator 
+    -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
 
 ## Bugs
 -   There was a bug causing error on the css file when the Google fonts where imported with the @import link. 
@@ -73,19 +77,23 @@ I reached out to Tutor support that helped me and advised to use the link to add
 -   No unfixed bugs
 
 ## Deployment
--   The site was deployed to Github pages
+-   The site was deployed to Github pages as follows:
+    -   In the Github repository, I navigated to Settings tab
+    -   From the source section drop-down menu, I selected the Master branch and Save
+    -   Once the Master branch was selected, the page provided the link to the website
 -   The live link: [Optimal Health](https://sophietiger.github.io/optimal_health/)
 
 ## Credits
--   A special thanks to my Mentor for helping me out and answering all my Questions!
+-   A special thanks to my Mentor for the support and answering all my Questions!
 ### Content
--   The social media links to Facebook and Instagram are the real ones this company is using.
+-   The icons in the footer and in the headings were taken from [Font Awesome](https://fontawesome.com/)   
+The social media links to Facebook and Instagram are the real ones this company is using.
+-   The Favicon in the Title of the page was taken from [Favicon](https://favicon.io/emoji-favicons/)
 -   I took inspiration from the Love Running project to create the header, footer and contact page.
 ### Media
 -   The images in the hero section, on the servives page and the contact page was taken from [Pexels](https://www.pexels.com/)
 -   The profile picture on the Home page is from my private gallery.
 
-## Future features
--   I would like to add a webshop to the page to make it easy and fast for the users to enroll on my services. The webshop would contain of different packages to choose from when it comes to Nutrition and Personal Training.
+
 
 
