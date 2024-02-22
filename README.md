@@ -84,7 +84,7 @@ I reached out to Tutor support that helped me and advised to use the link to add
 -   The live link: [Optimal Health](https://sophietiger.github.io/optimal_health/)
 
 ## Wireframes
--   The site was developed with the Mobile-first method. The wireframes were therefore drawn with that thought in mind.
+-   The site was developed with the Mobile-first method. The wireframes were therefore drawn with that thought in mind. First picture: Home page, Second picture: Services page, Third picture: Contact page.
 
 ![Home page wireframe](/assets/images/wireframe_index.png) ![Services page wireframe](/assets/images/wireframe_services.png) ![Contact page wireframe](/assets/images/wireframe_contact.png)
 
