@@ -436,12 +436,13 @@ footer {
     #nutrition-image {
         order: 1;
         height: 900px;
+        margin-right: 20px;
     }
 
     #nutrition {
         border-top: 1px solid #3a3a3a;
         border-bottom: 1px solid #3a3a3a;
-        padding: 20px 20px;
+        padding: 20px 0;
     }
     #pt-image {
         height: 600px;        
