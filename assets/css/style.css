@@ -109,7 +109,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url(../images/heroImg.jpg) no-repeat center center/cover;
+    background: url(../images/new_hero_img.jpg) no-repeat center center/cover;
     position: relative;
 }
 
@@ -140,7 +140,7 @@ hr {
 }
 
 #oval-cover-bg {
-    background: url(../images/new_profile.png) no-repeat center/cover;
+    background: url(../images/new_profile_picture.png) no-repeat center/cover;
     width: 80vw;
     height: 80vw;
     margin-bottom: 20px;
