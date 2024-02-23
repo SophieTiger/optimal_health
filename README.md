@@ -82,17 +82,26 @@ I reached out to Tutor support that helped me and advised to use the link to add
 ### Version Control
 -   The site was created using Gitpod editor and pushed to Github to the remote repository 'optimal_health'.
 -   Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
-    -   git add <file> - to add the files to the staging area before being committed.
-    -   git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step
-    -   git push - to push all committed code to the remote repository on GitHub
+    -   git add . - to add the files to the staging area before being committed.
+    -   git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
+    -   git push - to push all committed code to the remote repository on Github.
+
+### Deployment to Github pages
 -   The site was deployed to Github pages as follows:
     -   In the Github repository, I navigated to Settings tab
     -   From the source section drop-down menu, I selected the Master branch and Save
     -   Once the Master branch was selected, the page provided the link to the website
 -   The live link: [Optimal Health](https://sophietiger.github.io/optimal_health/)
 
+### Cloning of the Repository Code locally
+-   Go to the Github repository that you want to clone
+-   Click on the Code button located above all the project files
+-   Click on HTTPS and copy the repository link
+-   Open the IDE of your choice and and paste the copied git url into the IDE terminal
+-   The project is now created as a local clone
+
 ## Wireframes
--   The site was developed with the Mobile-first method. The wireframes were therefore drawn with that thought in mind. First picture: Home page, Second picture: Services page, Third picture: Contact page.
+-   The site was developed with the Mobile-first method. The wireframes were therefore drawn with that thought in mind, and created with [Balsamiq](https://balsamiq.cloud/snx9v5f/pmhksri/rB1D0). First picture: Home page, Second picture: Services page, Third picture: Contact page.
 
 ![Home page wireframe](/assets/images/wireframe_index.png) ![Services page wireframe](/assets/images/wireframe_services.png) ![Contact page wireframe](/assets/images/wireframe_contact.png)
 
