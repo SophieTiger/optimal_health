@@ -53,9 +53,9 @@ The site is responsive for all screen sizes.
 
 ## Testing
 -   Accessibility
-    -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible
+    -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible.
     
-    ![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_index.png)
+    ![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_homepage.png)
     ![Screenshot of Lighthouse result from Services page](/assets/images/lighthouse_services.png)
     ![Screenshot of Lighthouse result from Contact page](/assets/images/lighthouse_contact.png) 
 
