@@ -2,7 +2,7 @@
 
 The Optimal Health website is a webiste about Personal Training and Nutrition coaching. It targets everyone that is looking for a way to gain better health and quality of life with the tools of Nutrition and Training, no matter the gender or age.
 
-Users of this website will be able to find information about me as a coach, the tools and strategies for Nutrition and Training, how they can benefit from that and what results they can excpect.
+Users of this website will be able to find information about me as a coach, the tools and strategies for Nutrition and Training, how they can benefit from that and what results they can expect.
 There is also a contact form to easily get the first point of contact.
 The site is responsive for all screen sizes.
 
@@ -37,7 +37,7 @@ The site is responsive for all screen sizes.
     -   The services page gives the user information on what services are offered
     -   Personal Training. A picture with training equipment, kettlebells, and an informational text on the benefits with personal training and functional fitness.
 ![Screenshot of picture with kettlebells and information about personal training](/assets/images/pt_div.png)
-    -   Nutrition. A picture with food in boxes to give the user a feeling of what will come, since food prepation is a big part of the nutrition coaching. Informational text on the benefits of planning meals and getting knowledge about nutrition in order to make progress with training and getting a healthier lifestyle.
+    -   Nutrition. A picture with food in boxes to give the user a feeling of what will come, since food preparation is a big part of the nutrition coaching. Informational text on the benefits of planning meals and getting knowledge about nutrition in order to make progress with training and getting a healthier lifestyle.
 ![Screenshot of picture with foodboxes and information about nutrition](/assets/images/nutrition_div.png)
     -   Online Coaching. A picture with the App that will be provided to the users once signing up. Informational text on what to excpect from online coaching and how it is working.
 ![Screenshot of picture with online coaching app and information about online coaching](/assets/images/online_div.png)
@@ -55,10 +55,8 @@ The site is responsive for all screen sizes.
 -   Accessibility
     -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible.
     
-    ![Screenshot of Lighthouse result from Home page](/assets/images/lighthouse_homepage.png)
-    ![Screenshot of Lighthouse result from Services page](/assets/images/lighthouse_services.png)
-    ![Screenshot of Lighthouse result from Contact page](/assets/images/lighthouse_contact.png) 
-
+    ![Screenshot of Lighthouse result](/assets/images/lighthouse_score.png)
+ 
 -   I tested and confirmed that the page works in different browsers; Chrome, Safari and Firefox.
 -   I tested and confirmed that all internal links are working and redirecting the user between the pages.
 -   I tested that all external links, to social media sites, are woking and opening in a separate tab.
@@ -67,8 +65,11 @@ The site is responsive for all screen sizes.
 
 -   HTML
     -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
+![Screenshot of the HTML Validator result](/assets/images/html_validator.png)
+
 -   CSS
     -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
+![Screenshot of the CSS validator result](/assets/images/css_validator.png)    
 
 ## Bugs
 -   There was a bug causing error on the css file when the Google fonts where imported with the @import link. 
@@ -77,6 +78,13 @@ I reached out to Tutor support that helped me and advised to use the link to add
 -   No unfixed bugs
 
 ## Deployment
+
+### Version Control
+-   The site was created using Gitpod editor and pushed to Github to the remote repository 'optimal_health'.
+-   Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
+    -   git add <file> - to add the files to the staging area before being committed.
+    -   git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step
+    -   git push - to push all committed code to the remote repository on GitHub
 -   The site was deployed to Github pages as follows:
     -   In the Github repository, I navigated to Settings tab
     -   From the source section drop-down menu, I selected the Master branch and Save
